@@ -1,3 +1,7 @@
 {
-    "workbench.experimental.editSessions.enabled": true
+    "workbench.experimental.editSessions.enabled": true,
+    "wxcloud.containerDebug.appid": "wxe67e2b716ec89802",
+    "wxcloud.containerDebug.cliKey": "AAQ9G7sEAAABAAAAAABXZJ4H2DUmcRP2iU0cYyAAAAAraAdzKm8i8JwFJ68cDOJBtIHsmv3F8e00LCv7f",
+    "wxcloud.containerDebug.VPC ProxyNodes": "https://thinkphp-nginx-p1gf-2201067-1313864340.ap-shanghai.run.tcloudbase.com",
+    "wxcloud.containerDebug.VPC ProxyTargetEnvID": "prod-3goqxoz7b0fa8711"
 }
